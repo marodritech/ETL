@@ -18,12 +18,14 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 
 - Lenguaje: 
              - Python
+             
 - Librerías: - Numpy 
-             - Pandas
-             - Requests
-             - Ast
-             - Datetime
-             - Mysql.connector
+
+    - Pandas
+    - Requests
+     - Ast
+     - Datetime
+     - Mysql.connector
 - Programa: 
              - Visual Studio Code
 
