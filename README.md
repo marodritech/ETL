@@ -26,8 +26,8 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
      - Ast
      - Datetime
      - Mysql.connector
-- Programa: 
- - Visual Studio Code
+- Programa:
+         - Visual Studio Code
 
 # Contenidos :
 ***
