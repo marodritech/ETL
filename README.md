@@ -16,8 +16,9 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 # Info técnica :
 *** 
 
-- Lenguaje: 
-         - Python
+- Lenguajes: 
+    - Python
+    - MYSQL
              
 - Librerías: 
     - Numpy 
@@ -26,14 +27,15 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
      - Ast
      - Datetime
      - Mysql.connector
-- Programa:
-         - Visual Studio Code
+- Programas: 
+    - Visual Studio Code
 
 # Contenidos :
 ***
 
   ETL:
-    En los archivos que encontraremos dentro de esta carpeta podemos ver como nos conectamos a una API para sacar información meteorológica, unir esa info a otro dataframe para completar nuestros datos. Posteriormente crearemos una clase para automatizar en el futuro este proceso. 
+         
+  En los archivos que encontraremos dentro de esta carpeta podemos ver como nos conectamos a una API para sacar información meteorológica, unir esa info a otro dataframe para completar nuestros datos. Posteriormente crearemos una clase para automatizar en el futuro este proceso. 
   
   
   
