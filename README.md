@@ -17,17 +17,17 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 *** 
 
 - Lenguaje: 
-             - Python
+          - Python
              
-- Librerías: - Numpy 
-
+- Librerías: 
+    - Numpy 
     - Pandas
     - Requests
      - Ast
      - Datetime
      - Mysql.connector
 - Programa: 
-             - Visual Studio Code
+- - Visual Studio Code
 
 # Contenidos :
 ***
