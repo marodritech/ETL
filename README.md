@@ -17,7 +17,7 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 *** 
 
 - Lenguaje: 
-          - Python
+         - Python
              
 - Librerías: 
     - Numpy 
@@ -27,7 +27,7 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
      - Datetime
      - Mysql.connector
 - Programa: 
-- - Visual Studio Code
+ - Visual Studio Code
 
 # Contenidos :
 ***
