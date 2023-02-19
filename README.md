@@ -16,14 +16,16 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 # Info técnica :
 *** 
 
-- Lenguaje: Python
-- Librerías: Numpy 
-             Pandas
-             Requests
-             Ast
-             Datetime
-             Mysql.connector
-- Programa: Visual Studio Code
+- Lenguaje: 
+             - Python
+- Librerías: - Numpy 
+             - Pandas
+             - Requests
+             - Ast
+             - Datetime
+             - Mysql.connector
+- Programa: 
+             - Visual Studio Code
 
 # Contenidos :
 ***
